@@ -27,6 +27,7 @@ public class CharFrequency{
 ```
 
 <div dir="rtl" align="right">
+    
 # ورودی
 یک رشته که کاربر آن را وارد می کند.
 # خروجی
