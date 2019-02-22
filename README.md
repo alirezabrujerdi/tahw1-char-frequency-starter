@@ -10,7 +10,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 # Assignment discription
 
 <div dir="rtl" align="right">
-تابعی مطابق با امضای تعریف شده زیر تعریف کنید تا عملیات ضرب ماتریسی به وسیله آرایه دو بعدی را پیاده سازی کند
+برنامه ای بنویسید که از کاربر متنی را دریافت کند و تعداد تکرار هر حرف الفبا (چه بزرگ چه کوچک) را نمایش دهد.
 </div>
 
 
